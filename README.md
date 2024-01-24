@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Len 👋
 
-<!--
-**LenDiaz/LenDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I thrive on crafting digital wonders and bringing my creative flair to life in the vast realm of the web. 🪄
 
-Here are some ideas to get you started:
+📦 Toolbox
+---
+Frontend Development: `React JS` `Next.js` `TypeScript` `Material-UI`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend Development: `Node JS`
+
+Version Control: `Git` `GitLab` `Github`
+
+Testing: `Playwright`
+
+Others: `Storybook` `Scrum` `Confluence` `Jira`
+
+⚡ Fun fact
+---
+I love to read books and my favorite literary genre is historical fiction, also, cats!
