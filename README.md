@@ -4,7 +4,7 @@ I thrive on crafting digital wonders and bringing my creative flair to life in t
 
 📦 Toolbox
 ---
-Frontend Development: `React JS` `Next.js` `TypeScript` `Material-UI`
+Frontend Development: `HTML` `CSS` `JavaScript` `React JS` `Next.js` `TypeScript` `Material-UI` `React BootStrap`
 
 Backend Development: `Node JS`
 
